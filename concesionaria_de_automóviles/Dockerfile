@@ -21,7 +21,7 @@ FROM eclipse-temurin:17-jre-alpine
 WORKDIR /app
 
 
-COPY --from=builder /app/target/concesionaria-de-automoviles-0.0.1.jar app.jar
+COPY --from=builder /app/target/concesionaria_de_automoviles-0.0.1.jar app.jar
 
 
 EXPOSE 8080

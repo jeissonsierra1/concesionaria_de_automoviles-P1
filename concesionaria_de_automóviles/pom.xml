@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.concesionaria</groupId>
-	<artifactId>Concesionaria-de-Automoviles</artifactId>
+	<artifactId>concesionaria_de_automoviles</artifactId>
 	<version>0.0.1</version>
-	<name>concesionaria-de-automoviles</name>
+	<name>concesionaria_de_automoviles</name>
 	<description>Nivel 1: Concesionaria de Automóviles (MUY BÁSICO)</description>
 	<url/>
 	<licenses>
