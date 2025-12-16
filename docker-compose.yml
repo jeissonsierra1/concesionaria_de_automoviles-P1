@@ -8,7 +8,7 @@ services:
     environment:
       SERVER_PORT: 8080                  
       DB_URL: jdbc:postgresql://bd:5432/BD_Automovil          
-      DB_USERNAME: postgres                                         
+      DB_USER_NAME: postgres                                         
       DB_PASSWORD: Colombia2021*                                   
       HIBERNATE_DIALECT: org.hibernate.dialect.PostgreSQLDialect    
     restart: always
